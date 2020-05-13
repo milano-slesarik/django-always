@@ -1,0 +1,11 @@
+django
+django-allauth
+ipython
+django-extensions
+django-rest-framework
+django-debug-toolbar
+django-debug-toolbar-request-history
+django-filter
+django-drfxios
+django-model-utils
+django-compressor
